@@ -7,3 +7,4 @@ T.1.22.22-23-24.2
 -criação da pasta Downloads para os gráficos
 -Alteração do Early Stopping para começar a funcionar após 50 épocas
 -Mudança da regularização para a L1 com os mesmos parâmetros anteriormente usados (0,1 ; 0,01 ; 0,001)
+- Implementação do Download automático das figuras e do 'classification_report'
